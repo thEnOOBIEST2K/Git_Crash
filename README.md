@@ -1,3 +1,3 @@
 # Crash Course
 
-Some test.
+Some text.
