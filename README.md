@@ -1,3 +1,3 @@
-# Crash Corse
+# Crash Course
 
 Some test.
